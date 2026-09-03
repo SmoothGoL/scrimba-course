@@ -12,7 +12,7 @@ const transitionOut = async () => {
     }
     if (!isFocused) {
         skipNavEl.style.left = "-240px";
-        skipNavEl.style.transition = "left 3s";
+        skipNavEl.style.transition = "3s";
     }
     inTransition = false;
 };
@@ -29,5 +29,5 @@ skipNavEl.addEventListener("focus", () => {
     isFocused = true;
     waitTime = maxWaitTime;
     skipNavEl.style.left = "-20px";
-    skipNavEl.style.transition = "left 0.3s";
+    skipNavEl.style.transition = "0.3s";
 });
