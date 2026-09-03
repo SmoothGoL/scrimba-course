@@ -99,7 +99,15 @@ main {
     position: absolute;
     left: -240px;
     top: 80px;
+    transition: 3s 0.6s;
 }
+
+.skip-nav-link:focus {
+    left: -20px;
+    transition: 0.3s;
+}
+
+
 
 /* 
 Challenge: Apply the 'transition' property in our CSS so that the skip navigation link doesn't instantaneously appear and disappear.
