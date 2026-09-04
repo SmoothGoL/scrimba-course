@@ -88,7 +88,7 @@ ul.grid li {
   }
 }
 
-.excited:hover {
+.excited:hover img {
     animation-duration: 2s;
     animation-iteration-count: infinite;
     animation-name: jump;
