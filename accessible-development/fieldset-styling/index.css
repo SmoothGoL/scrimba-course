@@ -90,3 +90,8 @@ body, .contact-input, .address-input, .radio-container p {
 .city-select:focus-visible {
     outline: 3px solid #bbd5ff;
 }
+
+fieldset {
+    border: 2px solid #333333;
+    border-radius: 34px;
+}
