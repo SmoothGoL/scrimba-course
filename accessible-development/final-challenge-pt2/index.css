@@ -25,7 +25,7 @@ body, .contact-input, .contact-textarea  {
     margin-left: -60px;
 }
 .contact-form-heading {
-    font-size: 48px;
+    font-size: 3rem;
     font-weight: bold;
     margin: 0;
 }
@@ -33,7 +33,7 @@ body, .contact-input, .contact-textarea  {
     color: #007000;
 }
 .contact-form-intro {
-    font-size: 20px;
+    font-size: 1.25rem;
     margin-bottom: 20px;
 }
 .contact-input {
@@ -42,7 +42,7 @@ body, .contact-input, .contact-textarea  {
     margin: 5px auto 15px;
     border-radius: 20px;
     padding: 8px 20px;
-    font-size: 16px;
+    font-size: 1rem;
     border: 2px solid #333333;
 }
 .contact-textarea {
@@ -53,7 +53,8 @@ body, .contact-input, .contact-textarea  {
     border-radius: 20px;
 }
 .contact-input::-webkit-input-placeholder, .contact-textarea::-webkit-input-placeholder {
-    color: #aaaaaa;
+    color: #555;
+    font-size: 1rem;
 }
 .contact-submit-button {
     border: 2px solid #333333;
@@ -63,6 +64,7 @@ body, .contact-input, .contact-textarea  {
     width: 200px;
     cursor: pointer;
     font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
 }
 .contact-submit-button:hover {
     background-color: #dddddd;
