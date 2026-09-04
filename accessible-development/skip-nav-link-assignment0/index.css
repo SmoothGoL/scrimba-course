@@ -103,7 +103,7 @@ main {
     padding: 10px 20px 10px 50px;
 }
 .skip-nav-link:focus {
-    left: -36;
+    left: -36px;
     transition: 0.3s;
     
 }
