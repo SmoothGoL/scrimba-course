@@ -79,12 +79,12 @@ section{
     width:100%;
 }
 
-.game-imgs {
+.section2-imgs {
     display: flex;
     justify-content: space-between;
 }
 
-.glasses-3d-img, .inventory-img {
+.feature-img {
     width: 300px;
     border-radius: 4.6px;
 }
