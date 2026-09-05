@@ -72,8 +72,19 @@ section{
     margin: 0 auto;
 }
 
+
+/* images */
+
 .main-image{
     width:100%;
 }
 
+.game-imgs {
+    display: flex;
+    justify-content: space-between;
+}
 
+.glasses-3d-img, .inventory-img {
+    width: 300px;
+    border-radius: 4.6px;
+}
