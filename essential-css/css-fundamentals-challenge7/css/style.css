@@ -81,3 +81,7 @@ h3 {
 .small-text {
     margin-top: 2px;
 }
+
+p {
+    margin-bottom: 0;
+}
