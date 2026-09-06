@@ -43,6 +43,7 @@ h3 {
 .h1-large, .h2-large {
     font-weight: 900;
     margin-top: -8px;
+    display: block;
 }
 
 .h1-large {
