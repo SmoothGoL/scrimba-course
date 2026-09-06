@@ -10,6 +10,14 @@ body {
     margin: 0 auto;
 }
 
+a {
+    color: #99d930;
+}
+
+a:hover {
+    color: #131313;
+}
+
 h1,
 h2 {
     font-weight: 300;
@@ -30,4 +38,17 @@ h3 {
 
 .small-text {
     font-size: 16px;
+}
+
+.h1-large, .h2-large {
+    font-weight: 900;
+    margin-top: -8px;
+}
+
+.h1-large {
+    font-size: 80px;
+}
+
+.h2-large {
+    font-size: 60px;
 }
