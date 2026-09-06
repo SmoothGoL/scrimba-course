@@ -61,12 +61,7 @@ section {
     padding: 100px 0;
 }
 
-header, .articles {
+.inverse {
     background: #252525;
     color: #FFF;
-}
-
-.about-me {
-    background: #FFF;
-    color: #252525;
 }
