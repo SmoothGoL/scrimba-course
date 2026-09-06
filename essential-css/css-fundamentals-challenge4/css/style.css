@@ -12,9 +12,11 @@ body {
 
 a {
     color: #99d930;
+    font-weight: 900;
 }
 
-a:hover {
+a:hover,
+a:focus {
     color: #131313;
 }
 
