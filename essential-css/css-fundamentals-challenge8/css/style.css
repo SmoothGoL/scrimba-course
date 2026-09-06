@@ -73,3 +73,18 @@ section {
     color: #fff;
     background: #252525;
 }
+
+.mywork-link {
+    display: inline-block;
+    padding: 17px 30px;
+    background: #99D930;
+    color: #252525;
+    text-decoration: none;
+    margin-top: 40px;
+}
+
+.mywork-link:hover,
+.mywork-link:focus {
+    background: #252525;
+    color: white;
+}
