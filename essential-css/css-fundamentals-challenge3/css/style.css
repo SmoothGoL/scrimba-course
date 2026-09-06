@@ -25,6 +25,7 @@ h2 {
 h3 {
     font-size: 36px;
     margin-bottom: 0;
+    font-weight: 900;
 }
 
 .small {
@@ -32,6 +33,3 @@ h3 {
     margin-top: 5px;
 }
 
-.black {
-    font-weight: 900;
-}
