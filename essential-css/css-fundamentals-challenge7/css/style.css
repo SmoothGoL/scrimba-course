@@ -27,6 +27,7 @@ h2 .bold-text {
 h1,
 h2 {
     font-weight: 300; 
+    margin-top: 0;
 }
 
 h1 {
@@ -40,6 +41,15 @@ h2 {
 h3 {
     font-size: 36px;
     font-weight: 900;
+    margin-bottom: 0;
+}
+
+.small-text {
+    margin-top: 2px;
+}
+
+p {
+    margin-bottom: 0;
 }
 
 a {
@@ -66,22 +76,6 @@ section {
     background: #252525;
 }
 
-h1, h2 {
-    margin-top: 0;
-}
-
 .bold-text {
     margin-top: -6px;
-}
-
-h3 {
-    margin-bottom: 0;
-}
-
-.small-text {
-    margin-top: 2px;
-}
-
-p {
-    margin-bottom: 0;
 }
